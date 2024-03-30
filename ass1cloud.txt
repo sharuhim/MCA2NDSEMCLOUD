@@ -1,0 +1,13 @@
+ass1
+step1:- login to aws console
+step2:- go to services
+step3:- click on ec2
+step4:- To launch an instance click on launch instance
+step5:- give the name the instance
+step6:-then select aws
+step7:- select default value of key recomamnded
+step8:- click on launch instance
+step9:- then a link is generate in a green box on topp of console
+step10:-click on that link then again click on instance id link.
+step11:-then click on connect
+step12:- In sometime our linux ec2 instance is create with user_id.
